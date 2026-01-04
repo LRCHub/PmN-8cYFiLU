@@ -1,16 +1,24 @@
 {
   "version": 1,
-  "base_track": "KISSIN' CLAW",
-  "base_artist": "鎖那",
-  "createdAt": "2026-01-04T16:13:26.470702Z",
+  "base_track": "ネオンサイン [Remix]",
+  "base_artist": "Яu-a",
+  "createdAt": "2026-01-04T16:13:31.018273Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ネオンサイン",
+      "artist": "THE BLUE HEARTS",
+      "has_synced": true,
+      "path": "select/01_ネオンサイン_THE_BLUE_HEARTS.lrc"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "KISSIN' CLAW",
-      "artist": "鎖那",
+      "title": "ネオンサイン",
+      "artist": "Яu-a",
       "has_synced": false,
-      "path": "select/pl_01_KISSIN'_CLAW_鎖那.txt"
+      "path": "select/pl_01_ネオンサイン_Яu-a.txt"
     }
   ]
 }
