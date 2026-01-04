@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "KISSIN' CLAW",
+  "base_artist": "鎖那",
+  "createdAt": "2026-01-04T16:13:26.470702Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KISSIN' CLAW",
+      "artist": "鎖那",
+      "has_synced": false,
+      "path": "select/pl_01_KISSIN'_CLAW_鎖那.txt"
+    }
+  ]
+}
